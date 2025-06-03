@@ -2133,7 +2133,7 @@
             }
 
             .slide-image {
-                overflow: visible;
+                
                 height: 350px;
                 width: 100%;
                 object-fit: cover;
