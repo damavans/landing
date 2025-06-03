@@ -1896,7 +1896,7 @@
             }
 
             .slide-image {
-                height: 470px;
+                height: 750px;
                 width: 100%;
                 object-fit: cover;
             }
@@ -2130,6 +2130,12 @@
             .privacy-popup-content h3 {
                 font-size: 15px;
                 margin: 20px 0 10px 0;
+            }
+
+            .slide-image {
+                height: 450px;
+                width: 100%;
+                object-fit: cover;
             }
 
         }
