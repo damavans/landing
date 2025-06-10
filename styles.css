@@ -1215,6 +1215,16 @@
             margin: 0 auto;
         }
 
+        .faq-titulo {
+        font-size: 18px;
+            font-weight: 600;
+            color: #F49023;
+            margin: 0;
+            line-height: 1.4;
+            flex: 1;
+            padding-right: 20px;
+        }   
+
 
 
         .faq-list {
