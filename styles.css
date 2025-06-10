@@ -1661,12 +1661,12 @@
             }
 
             .cta-image {
-                content: url('assets/argentina-aca-mobile.png');
+                content: url('assets/argentina-aca-mobile.webp');
                 
             }
 
             .cta-image-footer {
-                content: url('assets/norte-argentino-mobile.png');
+                content: url('assets/norte-argentino-mobile.webp');
                 
             }
 
